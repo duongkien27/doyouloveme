@@ -79,7 +79,7 @@ window.onload = function () {
 };
 
 function yesClick() {
-  alert("Vậy tối nay mình hẹn hò nhé?");
+  alert("Nhắn tin cho anh biết nhé?");
 }
 
 function noHover() {
